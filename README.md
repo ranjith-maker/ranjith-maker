@@ -26,16 +26,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Behind the Code
 
-* **Role:** Full-Stack Developer focusing on modern Frontend Development
-* **Currently Learning:** AI Tools and Workflow Automation
-* **Core Languages:** JavaScript, HTML, and CSS
-* **Frontend Stack:** React, Redux, and Tailwind CSS
-* **Backend Stack:** Node.js and Express.js
-* **Databases:** MongoDB and Redis
-* **Tools:** Git, Postman, and Figma
-* **Motto:** Build. Learn. Improve. Repeat.
+I am a **Full-Stack Developer** who thrives at the intersection of clean design and robust engineering, with a deep passion for modern frontend development. 
+
+* I shape ideas into fluid, responsive, and engaging user experiences using **JavaScript, HTML, and CSS**.
+* I build dynamic, component-driven user interfaces with **React and Redux**, styling them seamlessly using **Tailwind CSS**.
+* I power my applications behind the scenes using **Node.js and Express.js**, architecting reliable backends that keep data flowing.
+* I manage data efficiently, storing application states and records with **MongoDB and Redis**.
+* I design user interfaces and prototype workflows in **Figma** before translating them cleanly into code, using **Git** to keep every version tracked and collaborative.
+* Right now, I am actively exploring **AI tools and workflow automation** to supercharge how I build and optimize software.
+
+> **Mindset** Creativity comes from doing the boring activities not from fancy tools
 
 ---
 
@@ -72,28 +74,10 @@
   [Explore Repository](https://github.com/ranjith-maker/Prep-Partner)
 
 <div align="center">
+<br>
 <a href="https://github.com/ranjith-maker?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20All%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ranjith-maker">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ranjith-maker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/ranjith-maker">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-maker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith-maker&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>
-
 </div>
 
 ---
