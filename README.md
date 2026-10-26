@@ -37,7 +37,7 @@ I am a **Full-Stack Developer** who thrives at the intersection of clean design 
 * I design user interfaces and prototype workflows in **Figma** before translating them cleanly into code, using **Git** to keep every version tracked and collaborative.
 * Right now, I am actively exploring **AI tools and workflow automation** to supercharge how I build and optimize software.
 
-> **Mindset** Creativity comes from doing the boring activities not from fancy tools
+> **Mindset**, Creativity comes from doing the boring activities not from fancy tools
 
 ---
 
@@ -83,21 +83,11 @@ I am a **Full-Stack Developer** who thrives at the intersection of clean design 
 ---
 
 ### 📈 Contribution Activity
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjith-maker&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=Ranjith's%20Contribution%20Graph" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-### 🐍 Watch My Contributions Come Alive
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ranjith-maker/ranjith-maker/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
+<br>
+<a href="https://github.com/ranjith-maker?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 </div>
 
 ---
