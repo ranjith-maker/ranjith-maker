@@ -24,45 +24,62 @@
 
 </div>
 
-👨‍💻 About Me
-javascript
-const ranjith = {
-  role: "Full-Stack Developer",
-  focus: "Frontend Development",
-  currentlyLearning: ["AI Tools", "Workflow Automation"],
-  languages: ["JavaScript", "HTML", "CSS"],
-  frontend: ["React", "Redux", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  databases: ["MongoDB", "Redis"],
-  tools: ["Git", "Postman", "Figma"],
-  askMeAbout: ["JavaScript", "React.js"],
-  motto: "Build. Learn. Improve. Repeat."
-};
+---
 
-🔭 I enjoy building modern, responsive, and interactive web experiences.
-🌱 Currently exploring how AI can make my development workflow smarter.
-💬 Ask me about JavaScript, React.js, and frontend development.
-🎥 Explore my projects and content on YouTube.
-📫 Reach me at snranjithkumar500@gmail.com.
-🛠️ Tech Stack
+### 👨‍💻 About Me
+
+* **Role:** Full-Stack Developer focusing on modern Frontend Development
+* **Currently Learning:** AI Tools and Workflow Automation
+* **Core Languages:** JavaScript, HTML, and CSS
+* **Frontend Stack:** React, Redux, and Tailwind CSS
+* **Backend Stack:** Node.js and Express.js
+* **Databases:** MongoDB and Redis
+* **Tools:** Git, Postman, and Figma
+* **Motto:** Build. Learn. Improve. Repeat.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-Frontend
-
+**Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,babel&theme=dark" alt="Frontend skills"/>
 
-Backend & Databases
+<br><br>
 
+**Backend & Databases**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" alt="Backend and database skills"/>
 
-Tools & Cloud
+<br><br>
 
+**Tools & Cloud**
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,aws&theme=dark" alt="Tools and cloud skills"/>
 
 </div>
 
-📊 GitHub Analytics
+---
+
+### 🚀 Featured Projects
+
+* **💬 Wassup** — A modern chat and messaging web application built with a robust full-stack architecture. 
+  [Explore Repository](https://github.com/ranjith-maker/Wassup)
+
+* **🎯 Prep-Partner** — An interactive interview and skill preparation platform designed to help developers level up. 
+  [Explore Repository](https://github.com/ranjith-maker/Prep-Partner)
+
+<div align="center">
+<a href="https://github.com/ranjith-maker?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -79,7 +96,9 @@ Tools & Cloud
 
 </div>
 
-📈 Contribution Activity
+---
+
+### 📈 Contribution Activity
 
 <div align="center">
 
@@ -87,7 +106,9 @@ Tools & Cloud
 
 </div>
 
-🐍 Watch My Contributions Come Alive
+---
+
+### 🐍 Watch My Contributions Come Alive
 
 <div align="center">
 
@@ -95,29 +116,9 @@ Tools & Cloud
 
 </div>
 
-🏆 GitHub Achievements
+---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranjith-maker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies"/>
-
-</div>
-
-📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ranjith-maker?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-<a href="https://www.youtube.com/@RockwithRanjith/playlists">
-<img src="https://img.shields.io/badge/Watch%20My%20Projects-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my projects"/>
-</a>
-
-</div>
-
-💡 Tip: Pin your best 4–6 repositories on your GitHub profile so visitors can immediately discover your strongest projects.
-🤝 Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">
 
@@ -133,9 +134,9 @@ Tools & Cloud
 
 <br/><br/>
 
-💜 Thanks for visiting!
+💜 Thanks for visiting! If you like what I build, consider leaving a ⭐ on my repositories.
 
-If you like what I build, consider leaving a ⭐ on my repositories.
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:6A5ACD&height=110&section=footer" width="100%" alt="Decorative footer banner"/>
 
